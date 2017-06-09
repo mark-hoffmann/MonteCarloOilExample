@@ -13,3 +13,5 @@ Different methods were used in each one of these areas such as using Cholesky De
 
 The culmination was determining the VaR (Value at Risk), the CVaR (Conditional Value at Risk), and the NPV_15 (Net Preset Value at a 15 year time period).
 All assumptions can be seen within the code.
+
+An RShiny app was then prototyped to visualize some of the data as well as act as a simple interface for inputs / outputs.
